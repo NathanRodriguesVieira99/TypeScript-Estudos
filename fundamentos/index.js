@@ -1,7 +1,4 @@
-const soma = (a, b) => {
-  console.log(a + b);
-
-}
-
-soma(2, 2)
-soma('nathan', 'rodrigues')
+var soma = function (a, b) {
+    console.log(soma);
+};
+soma(1, 2);
